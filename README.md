@@ -32,8 +32,8 @@ Seus usuários devem ser capazes de:
 
 ### Links
 
-- URL da solução: [Link da solução]()
-- URL do site ao vivo: [demonstração]()
+- URL da solução: [Link da solução](https://www.frontendmentor.io/solutions/interactive-rating-component-WCpsS9Aqdz)
+- URL do site ao vivo: [demonstração](https://matheusmanuel.github.io/Interactive-rating-component/)
 
 
 ### Construído com
